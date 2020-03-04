@@ -1,0 +1,7 @@
+*.class
+*.pdf
+*.rtf
+*.docx
+*.doc#
+*.docx#
+*.csv#
